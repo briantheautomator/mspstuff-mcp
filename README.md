@@ -10,7 +10,7 @@ This repository is documentation and directory metadata only. The servers are ho
 
 ## Connect
 
-Every client points at the same endpoint, `https://www.mspstuff.io/mcp`. Sign in with your MSPStuff account; your admin's scope applies. Setup guides: https://www.mspstuff.io/claude-connectors and https://www.mspstuff.io/ai-connectors.
+Every client points at the same endpoint, `https://www.mspstuff.io/mcp`. Sign in with your MSPStuff account (or use a key where noted); your admin's scope applies. Setup guides: https://www.mspstuff.io/claude-connectors and https://www.mspstuff.io/ai-connectors.
 
 ### Claude.ai
 
@@ -118,7 +118,7 @@ Vendor names identify the systems an integration reads. They do not imply a part
 - Access to your platforms is read-only today. Any change a platform could make is refused by the server before anything reaches the platform.
 - What a person can reach depends on the platforms their company connected and what their admin granted, per person and per data area.
 - Every answer is traced to the tool call behind it.
-- Each person can disconnect a client from the Connect your AI page, which ends its access immediately.
+- Each person can disconnect a client from the Connect your AI page, which ends its access.
 
 ## Links
 
