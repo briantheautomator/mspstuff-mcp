@@ -1,0 +1,12 @@
+{
+  "identifier": "mspstuff-switchboard",
+  "name": "MSPStuff Switchboard",
+  "version": "1.0.1",
+  "description": "Hosted MCP servers for MSP tools: ConnectWise, NinjaOne, Microsoft 365, SentinelOne, Pax8 and more.",
+  "author": "MSPStuff",
+  "authorUrl": "https://www.mspstuff.io",
+  "homepage": "https://www.mspstuff.io/mcp-servers",
+  "cloudEndpoint": "https://www.mspstuff.io/mcp",
+  "icon": "https://www.mspstuff.io/logo-512.png",
+  "tags": ["msp", "connectwise", "ninjaone", "microsoft-365", "sentinelone", "pax8", "remote-mcp"]
+}
